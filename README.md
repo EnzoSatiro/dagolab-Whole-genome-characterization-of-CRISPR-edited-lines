@@ -5,7 +5,7 @@ The new EU framework for NGTs focuses on the final plant's molecular traits rath
 
 Command lines utilized within the bioinformatics workflow.
 
-| Funzione | Software | Comando |
+| Function | Software | Command |
 
 | **Quality control** | *LongQc* | `python3 longQC.py sampleqc -o /path/to/output_QC -x ont-ligation /path/to/input_reads.fastq.gz` |
 
